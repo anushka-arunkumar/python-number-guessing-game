@@ -25,6 +25,7 @@ A simple Python-based number guessing game demonstrating core programming concep
 
 ## 🕹️ Example Gameplay
 
+```
 🎮 WELCOME TO NUMBER GUESSING GAME 🎮
 
 === New Game Started ===
@@ -74,3 +75,4 @@ Hard: Not played yet
 Do you want to play again? (yes/no): no
 
 Thanks for playing! Goodbye! 👋
+```
